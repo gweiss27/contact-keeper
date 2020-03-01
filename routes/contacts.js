@@ -4,6 +4,7 @@ const auth = require("../middleware/auth");
 const { check, validationResult } = require("express-validator");
 const User = require("../models/User");
 const Contact = require("../models/Contact");
+
 // @route   GET api/contacts
 // @desc    Get all users contacts
 // @access  PRIVATE
