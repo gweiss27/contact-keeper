@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://gweiss:mern123@cluster0-0aydo.mongodb.net/contact_keeper?retryWrites=true&w=majority",
+    "jwtSecret": "l3t$GoFly3r$!n2020"
+}
